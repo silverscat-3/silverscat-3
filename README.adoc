@@ -1,0 +1,23 @@
+= 銀猫さん (silverscat-3)
+silverscat_3 <silverscat_3@mail.sc3.fun>
+#1 Software engineer of Mechanophilia. (self-proclaimed) Made in Japan 🇯🇵
+
+== Features
+
+- 🚗 Make cars yaoi
+- 💻 Write little bit Rust source code
+- 💻 Write little bit Golang source code
+- 💻 Write little bit Deno and Elm source codes
+- 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧 **LOVE PANJAN DRUM** 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
+
+== Contribute
+
+1. Follow me on link:https://fedibird.com/@silverscat_3[Mastodon] or link:https://twitter.com/intent/user?user_id=1078658958502416385[Twitter].
+2. Shit-mentions to me.
+3. My notification section is filled with SPAM. FUCK!
+
+== Donation
+
+- link:https://www.amazon.co.jp/hz/wishlist/ls/LS0MKOE0EQZ0[Amazonほしいものリスト]
+- link:https://www.amazon.co.jp/hz/wishlist/ls/1NWICTGF3IAK9[Amazon**ほしくない**ものリスト]
+- link:.content/kyash.jpg[Kyash]
