@@ -1,5 +1,9 @@
-= 銀猫さん (silverscat-3)
+= 銀猫さん (silverscat-3) 🏳️‍🌈
 silverscat_3 <silverscat_3@mail.sc3.fun>
+image:https://img.shields.io/badge/I%20can%20write%20of%20-Go-00ADD8.svg?logo=Go&style=plastic[]
+image:https://img.shields.io/badge/I%20can%20write%20of%20-Rust-black.svg?logo=Rust&style=plastic[]
+image:https://img.shields.io/badge/I%20can%20write%20of%20-Deno-silver.svg?logo=Deno&style=plastic[]
+link:https://fedibird.com/@silverscat_3[image:https://img.shields.io/badge/Mastodon-Follow%20me-white.svg?logo=mastodon&style=social[]]
 
 #1 Software engineer of Mechanophilia. (self-proclaimed) Made in Japan 🇯🇵
 
