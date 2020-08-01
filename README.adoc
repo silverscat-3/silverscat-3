@@ -28,4 +28,4 @@ link:https://fedibird.com/@silverscat_3[image:https://img.shields.io/badge/Masto
 - link:https://www.amazon.co.jp/hz/wishlist/ls/1NWICTGF3IAK9[Amazon**ほしくない**ものリスト]
 - link:.content/kyash.jpg[Kyash]
 
-image::https://cdn.buymeacoffee.com/buttons/default-orange.png[height="51",width="217"]
+link:https://www.buymeacoffee.com/silverscat3[image:https://cdn.buymeacoffee.com/buttons/default-orange.png[height="51",width="217"]]
