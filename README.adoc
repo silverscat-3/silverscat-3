@@ -19,8 +19,6 @@ silverscat_3 <silverscat_3@mail.sc3.fun>
 
 == Donation
 
+- link:https://liberapay.com/silverscat_3/[liberpay]
 - link:https://www.amazon.co.jp/hz/wishlist/ls/LS0MKOE0EQZ0[Amazonほしいものリスト]
 - link:https://www.amazon.co.jp/hz/wishlist/ls/1NWICTGF3IAK9[Amazon**ほしくない**ものリスト]
-- link:.content/kyash.jpg[Kyash]
-
-link:https://www.buymeacoffee.com/silverscat3[image:https://cdn.buymeacoffee.com/buttons/default-orange.png[height="51",width="217"]]
